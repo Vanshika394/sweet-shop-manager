@@ -186,7 +186,9 @@ Using shared schemas ensured end-to-end type safety between frontend and backend
 
 Vanshika
 GitHub: Vanshika394
-```bash <img width="1920" height="1080" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/d49fc818-61e5-4a76-93db-0af27bd03ec5" />
+```
+
+ <img width="1920" height="1080" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/d49fc818-61e5-4a76-93db-0af27bd03ec5" />
 <img width="1920" height="1080" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/6bb4c07f-0c7a-4d81-9f97-e597d6ed9bb0" />
 <img width="1920" height="1080" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/4e88bfaa-30cd-47c2-9a2c-a30f2452488d" />
 <img width="1920" height="1080" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/52b2fa5b-a4bd-44fb-b559-8ab43baa9a7b" />
@@ -194,3 +196,4 @@ GitHub: Vanshika394
 <img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/4004b95a-51c8-41a6-8ae5-3937703cddc6" />
 <img width="1920" height="1080" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/b8694a83-cd39-4747-b766-2f0f0fab94b0" />
 <img width="1920" height="1080" alt="Screenshot (392)" src="https://github.com/user-attachments/assets/085fcf02-d52d-448f-81e1-40a60414a579" />
+
