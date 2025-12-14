@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sweet Shop Management System
 
 A full-stack web application for managing a sweet shop inventory with user authentication. Customers can browse and purchase sweets, while administrators can manage inventory including adding, editing, restocking, and deleting products.
@@ -162,3 +163,7 @@ This project was built with the assistance of AI tools:
 
 ### Reflection
 AI significantly accelerated development by handling repetitive tasks and generating boilerplate code. This allowed me to focus on the overall architecture and user experience. The AI was particularly helpful in ensuring type safety between the frontend and backend using shared schemas.
+=======
+# sweet-shop-manager
+The goal of this kata is to design, build, and test a full-stack Sweet Shop Management System. This project will test your skills in API development, database management, frontend implementation, testing, and modern development workflows, including the use of AI tools.
+>>>>>>> c079229dd62d39a2698379d39764382597ab1aec
