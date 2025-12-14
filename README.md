@@ -111,7 +111,7 @@ npm run dev
 ```
 
 #### Step 8: Access the Application
-Open your browser and go to: `http://localhost:5000`
+Open your browser and go to: `http://localhost:3000`
 
 ## Default Admin Account
 
@@ -150,20 +150,32 @@ Or you can register a new account and manually set `is_admin = true` in the data
 
 ## My AI Usage
 
-This project was built with the assistance of AI tools:
+This project was built with the assistance of AI tools:chatgpt,google gemini
+How AI Was Used
+Schema Design: AI helped generate the database schema with proper TypeScript types and Zod validation
+API Implementation: AI generated the Express routes with JWT authentication middleware
+Frontend Components: AI created React components for login, registration, and dashboard pages
+Testing: AI helped create comprehensive API tests to verify functionality
 
-### Tools Used
-- **Replit Agent** - Used for generating boilerplate code, implementing API endpoints, creating React components, and debugging issues.
-
-### How AI Was Used
-1. **Schema Design**: AI helped generate the database schema with proper TypeScript types and Zod validation
-2. **API Implementation**: AI generated the Express routes with JWT authentication middleware
-3. **Frontend Components**: AI created React components for login, registration, and dashboard pages
-4. **Testing**: AI helped create comprehensive API tests to verify functionality
 
 ### Reflection
 AI significantly accelerated development by handling repetitive tasks and generating boilerplate code. This allowed me to focus on the overall architecture and user experience. The AI was particularly helpful in ensuring type safety between the frontend and backend using shared schemas.
 =======
 # sweet-shop-manager
 The goal of this kata is to design, build, and test a full-stack Sweet Shop Management System. This project will test your skills in API development, database management, frontend implementation, testing, and modern development workflows, including the use of AI tools.
+
+
+# sweet-shop-manager screenshots
+
+<img width="1920" height="1080" alt="Screenshot (392)" src="https://github.com/user-attachments/assets/0b53bd94-65b8-4a4b-9516-d113cb1855bf" />
+<img width="1920" height="1080" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/918e6811-7a2c-4a5a-b5e7-359c5d738cf0" />
+<img width="1920" height="1080" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/fcdc6184-7d85-4bb8-8582-5989c0a0e7c7" />
+<img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/d9ac200b-94f8-4e56-bf25-9eb823041da1" />
+<img width="1920" height="1080" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/d78b5695-f2a4-4c9c-88b1-fd44e2fdc2fb" />
+
+
+
+
+
+
 >>>>>>> c079229dd62d39a2698379d39764382597ab1aec
