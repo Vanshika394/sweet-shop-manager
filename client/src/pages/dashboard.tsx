@@ -248,10 +248,19 @@ export default function Dashboard() {
                     )}
                   </div>
                 </CardHeader>
+                
                 <CardContent className="pt-4">
-                  {sweet.description && (
-                    <p className="text-sm text-muted-foreground mb-3">{sweet.description}</p>
-                  )}
+                {sweet.imageUrl && (
+                  <img 
+                    src={sweet.imageUrl} 
+                    alt={sweet.name} 
+                    className="w-full h-40 object-cover rounded-md mb-3"
+                  />
+                )}
+                {sweet.description && (
+                  <p className="text-sm text-muted-foreground mb-3">{sweet.description}</p>
+                )}
+                <div className="flex justify-between items-center mb-2"></div>
                   <div className="flex justify-between items-center mb-2">
                     <span className="text-2xl font-bold text-primary" data-testid={`text-sweet-price-${sweet.id}`}>
                       ${(sweet.price / 100).toFixed(2)}
